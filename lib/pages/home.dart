@@ -18,7 +18,9 @@ class Home extends StatelessWidget {
               child: Text(
                 'Psychotest',
                 textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.white, fontSize: 30),
+                style: TextStyle(
+                  color: Colors.white, fontSize: 30
+                  ),
               ),
             ),
           ],
