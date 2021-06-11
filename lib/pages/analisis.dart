@@ -18,9 +18,9 @@ class Analisis extends StatelessWidget {
           title: Text("Psychotest"),
           backgroundColor: Colors.amber,
         ),
-        backgroundColor: const Color(0xff252c48),
+        backgroundColor: const Color(0xff4a1c40),
         body: Column(
-          children: [
+          children: [//a
             Text(
               'Tipe kepribadianmu : ' + kepribadian.tipe,
               style: TextStyle(
